@@ -1,0 +1,13 @@
+.container{
+    margin: 10px;
+}
+
+.titulo{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.button{
+    display: flex;
+    justify-content: space-between;
+}

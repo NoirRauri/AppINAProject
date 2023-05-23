@@ -1,0 +1,72 @@
+D:\Users\pc\source\repos\InaApi2\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\Users\pc\source\repos\InaApi2\Entities\bin\Debug\net6.0\Entities.dll
+D:\Users\pc\source\repos\InaApi2\Entities\bin\Debug\net6.0\Entities.pdb
+D:\Users\pc\source\repos\InaApi2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\Users\pc\source\repos\InaApi2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pc\source\repos\InaApi2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\Users\pc\source\repos\InaApi2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\Users\pc\source\repos\InaApi2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\Users\pc\source\repos\InaApi2\Entities\obj\Debug\net6.0\Entities.dll
+D:\Users\pc\source\repos\InaApi2\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\Users\pc\source\repos\InaApi2\Entities\obj\Debug\net6.0\Entities.pdb
+D:\Users\pc\source\repos\InaApi2\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Entities\obj\Debug\net6.0\ref\Entities.dll
+E:\InaApi2\Entities\bin\Debug\net6.0\Entities.deps.json
+E:\InaApi2\Entities\bin\Debug\net6.0\Entities.dll
+E:\InaApi2\Entities\bin\Debug\net6.0\Entities.pdb
+E:\InaApi2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+E:\InaApi2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\InaApi2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+E:\InaApi2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+E:\InaApi2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+E:\InaApi2\Entities\obj\Debug\net6.0\Entities.dll
+E:\InaApi2\Entities\obj\Debug\net6.0\refint\Entities.dll
+E:\InaApi2\Entities\obj\Debug\net6.0\Entities.pdb
+E:\InaApi2\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\CRPP13\Desktop\InaApi2\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\CRPP13\Desktop\InaApi2\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\CRPP13\Desktop\InaApi2\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\CRPP13\Desktop\InaApi2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\CRPP13\Desktop\InaApi2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRPP13\Desktop\InaApi2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\CRPP13\Desktop\InaApi2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\CRPP13\Desktop\InaApi2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\CRPP13\Desktop\InaApi2\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\CRPP13\Desktop\InaApi2\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\CRPP13\Desktop\InaApi2\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\CRPP13\Desktop\InaApi2\Entities\obj\Debug\net6.0\ref\Entities.dll
+E:\jueves 05-18\InaApi2\Entities\bin\Debug\net6.0\Entities.deps.json
+E:\jueves 05-18\InaApi2\Entities\bin\Debug\net6.0\Entities.dll
+E:\jueves 05-18\InaApi2\Entities\bin\Debug\net6.0\Entities.pdb
+E:\jueves 05-18\InaApi2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+E:\jueves 05-18\InaApi2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\jueves 05-18\InaApi2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+E:\jueves 05-18\InaApi2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+E:\jueves 05-18\InaApi2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+E:\jueves 05-18\InaApi2\Entities\obj\Debug\net6.0\Entities.dll
+E:\jueves 05-18\InaApi2\Entities\obj\Debug\net6.0\refint\Entities.dll
+E:\jueves 05-18\InaApi2\Entities\obj\Debug\net6.0\Entities.pdb
+E:\jueves 05-18\InaApi2\Entities\obj\Debug\net6.0\ref\Entities.dll

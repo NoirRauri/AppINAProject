@@ -1,0 +1,63 @@
+form{
+    display: flex;
+    flex-wrap: wrap;
+}
+.form{
+    max-width: 900px !important;
+    margin: 0 auto !important;
+}
+
+.titulo{
+    height: 100px;
+    display: flex;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+}
+
+.subtitulo{
+    padding: 0 10px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.formField{
+    margin: 0 0.5rem;
+    width: 20%;
+}
+
+.row{
+    margin: 0 auto;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    height: 50px !important;
+    margin: 5px 25px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: small;
+}
+  
+a{
+    text-decoration: none;
+}
+
+.sectionDetalle{
+    max-width: 900px !important;
+    margin: 0 auto !important;
+    display: flex;
+    justify-content: space-around;
+}
+
+.tableDetalle {
+    width: 800px;
+}
+    
+th.mat-sort-header-sorted {
+    color: black;
+}

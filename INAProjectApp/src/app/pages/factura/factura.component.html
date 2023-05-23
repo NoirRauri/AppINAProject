@@ -1,0 +1,134 @@
+<div class="form">
+  <div class="titulo">
+    <h1>Creacion de Factura</h1>
+  </div>
+
+  <div>
+    <div class="subtitulo">
+      <p>Datos del Cliente</p>
+    </div>
+    <div>
+      <!-- Form para Clientes -->
+      <form [formGroup]="clienteForm.baseForm">
+        <mat-form-field class="formField" appearance="fill">
+          <mat-label>Fecha</mat-label>
+          <input matInput type="text" formControlName="fechaNac" readonly />
+        </mat-form-field>
+
+        <mat-form-field class="formField" appearance="fill">
+          <mat-label>Cédula</mat-label>
+          <input matInput type="text" formControlName="cedula" readonly />
+        </mat-form-field>
+
+        <mat-form-field class="formField" appearance="fill">
+          <mat-label>Nombre</mat-label>
+          <input matInput type="text" formControlName="nombre" readonly />
+        </mat-form-field>
+
+        <button mat-raised-button color="primary" (click)="openModal(true)">
+          Agregar Cliente
+        </button>
+      </form>
+    </div>
+    <div>
+      <form [formGroup]="tiposForms">
+        <!-- ComboBox tipo Cliente -->
+        <mat-form-field class="formField" appearance="fill">
+          <mat-label>Tipo de Venta</mat-label>
+          <select matNativeControl formControlName="tipoventa">
+            <option *ngFor="let opcion of tipoVenta" [ngValue]="opcion.id">
+              {{ opcion.nombre }}
+            </option>
+          </select>
+        </mat-form-field>
+
+        <!-- ComboBox tipo Pago -->
+        <mat-form-field class="formField" appearance="fill">
+          <mat-label>Tipo de Pago</mat-label>
+          <select matNativeControl formControlName="tipoPago">
+            <option *ngFor="let opcion of tipoPago" [ngValue]="opcion.id">
+              {{ opcion.nombre }}
+            </option>
+          </select>
+        </mat-form-field>
+      </form>
+    </div>
+  </div>
+  <div>
+    <div class="subtitulo">
+      <p>Datos del Producto</p>
+    </div>
+    <!-- Form para Productos -->
+    <form [formGroup]="productoForm.baseForm">
+      <mat-form-field class="formField" appearance="fill">
+        <mat-label>Nombre Producto</mat-label>
+        <input matInput type="text" formControlName="nombre" readonly />
+      </mat-form-field>
+
+      <mat-form-field class="formField" appearance="fill">
+        <mat-label>Cantidad</mat-label>
+        <input matInput type="number" formControlName="stock" max="{{cant}}" min="1" />
+      </mat-form-field>
+
+      <mat-form-field class="formField" appearance="fill">
+        <mat-label>Precio Unitario</mat-label>
+        <input matInput type="number" formControlName="precioVenta" readonly />
+      </mat-form-field>
+
+      <button mat-raised-button color="accent" (click)="openModal()" [disabled]="this.productoForm.baseForm.valid">
+        Buscar Producto
+      </button>
+    </form>
+  </div>
+</div>
+
+<!-- Lista de los detalles de la factura -->
+<div class="sectionDetalle">
+  <div class="tableDetalle">
+    <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+      <!-- idProducto Column -->
+      <ng-container matColumnDef="idProducto">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>ID producto</th>
+        <td mat-cell *matCellDef="let element">{{ element.idProducto }}</td>
+      </ng-container>
+
+      <!-- cantidad Column -->
+      <ng-container matColumnDef="cantidad">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>Cantidad</th>
+        <td mat-cell *matCellDef="let element">{{ element.cant }}</td>
+      </ng-container>
+
+      <!-- precio Column -->
+      <ng-container matColumnDef="precio">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>Precio Unitario</th>
+        <td mat-cell *matCellDef="let element">{{ element.precio }}</td>
+      </ng-container>
+
+      <!-- acciones Column -->
+      <ng-container matColumnDef="acciones">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>Acciones</th>
+        <td mat-cell *matCellDef="let element">
+          <button mat-button color="accent" (click)="modificarDetalle(element,element.idProducto)">Modificar</button>
+          <button mat-button color="warn" (click)="eliminarDetalle(element)">Eliminar</button>
+        </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+    </table>
+  </div>
+  <div style="
+  display: flex;
+  flex-direction: column;
+  align-items: center;">
+    <button mat-raised-button color="warn" (click)="addProducto()"
+      [disabled]="!this.productoForm.baseForm.valid || !this.clienteForm.baseForm.valid || !this.tiposForms.valid">
+      Agregar Producto
+    </button>
+    <button mat-button color="accent" (click)="guardarFactura()"
+      [disabled]="!this.clienteForm.baseForm.valid || !this.tiposForms.valid || detalleList.length==0">
+      Guardar factura
+    </button>
+    <button mat-button color="warn" (click)="limpiarDatos()">Cancelar</button>
+  </div>
+</div>

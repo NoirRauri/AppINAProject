@@ -1,0 +1,100 @@
+D:\Users\pc\source\repos\InaApi2\Data\bin\Debug\net6.0\Data.deps.json
+D:\Users\pc\source\repos\InaApi2\Data\bin\Debug\net6.0\Data.dll
+D:\Users\pc\source\repos\InaApi2\Data\bin\Debug\net6.0\Data.pdb
+D:\Users\pc\source\repos\InaApi2\Data\bin\Debug\net6.0\Entities.dll
+D:\Users\pc\source\repos\InaApi2\Data\bin\Debug\net6.0\Entities.pdb
+D:\Users\pc\source\repos\InaApi2\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Users\pc\source\repos\InaApi2\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pc\source\repos\InaApi2\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Users\pc\source\repos\InaApi2\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Users\pc\source\repos\InaApi2\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\Users\pc\source\repos\InaApi2\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+D:\Users\pc\source\repos\InaApi2\Data\obj\Debug\net6.0\Data.dll
+D:\Users\pc\source\repos\InaApi2\Data\obj\Debug\net6.0\refint\Data.dll
+D:\Users\pc\source\repos\InaApi2\Data\obj\Debug\net6.0\Data.pdb
+D:\Users\pc\source\repos\InaApi2\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\bin\Debug\net6.0\Data.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\bin\Debug\net6.0\Entities.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\bin\Debug\net6.0\Entities.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\obj\Debug\net6.0\Data.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\bin\Debug\net6.0\Data.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\bin\Debug\net6.0\Entities.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\bin\Debug\net6.0\Entities.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\obj\Debug\net6.0\Data.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Data\obj\Debug\net6.0\ref\Data.dll
+E:\InaApi2\Data\bin\Debug\net6.0\Data.deps.json
+E:\InaApi2\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+E:\InaApi2\Data\bin\Debug\net6.0\Data.dll
+E:\InaApi2\Data\bin\Debug\net6.0\Data.pdb
+E:\InaApi2\Data\bin\Debug\net6.0\Entities.dll
+E:\InaApi2\Data\bin\Debug\net6.0\Entities.pdb
+E:\InaApi2\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+E:\InaApi2\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\InaApi2\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+E:\InaApi2\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+E:\InaApi2\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+E:\InaApi2\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+E:\InaApi2\Data\obj\Debug\net6.0\Data.dll
+E:\InaApi2\Data\obj\Debug\net6.0\refint\Data.dll
+E:\InaApi2\Data\obj\Debug\net6.0\Data.pdb
+E:\InaApi2\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+E:\InaApi2\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\CRPP13\Desktop\InaApi2\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\CRPP13\Desktop\InaApi2\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\CRPP13\Desktop\InaApi2\Data\bin\Debug\net6.0\Data.dll
+C:\Users\CRPP13\Desktop\InaApi2\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\CRPP13\Desktop\InaApi2\Data\bin\Debug\net6.0\Entities.dll
+C:\Users\CRPP13\Desktop\InaApi2\Data\bin\Debug\net6.0\Entities.pdb
+C:\Users\CRPP13\Desktop\InaApi2\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\CRPP13\Desktop\InaApi2\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRPP13\Desktop\InaApi2\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\CRPP13\Desktop\InaApi2\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\CRPP13\Desktop\InaApi2\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\CRPP13\Desktop\InaApi2\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\CRPP13\Desktop\InaApi2\Data\obj\Debug\net6.0\Data.dll
+C:\Users\CRPP13\Desktop\InaApi2\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\CRPP13\Desktop\InaApi2\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\CRPP13\Desktop\InaApi2\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\CRPP13\Desktop\InaApi2\Data\obj\Debug\net6.0\ref\Data.dll
+E:\jueves 05-18\InaApi2\Data\bin\Debug\net6.0\Data.deps.json
+E:\jueves 05-18\InaApi2\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+E:\jueves 05-18\InaApi2\Data\bin\Debug\net6.0\Data.dll
+E:\jueves 05-18\InaApi2\Data\bin\Debug\net6.0\Data.pdb
+E:\jueves 05-18\InaApi2\Data\bin\Debug\net6.0\Entities.dll
+E:\jueves 05-18\InaApi2\Data\bin\Debug\net6.0\Entities.pdb
+E:\jueves 05-18\InaApi2\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+E:\jueves 05-18\InaApi2\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\jueves 05-18\InaApi2\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+E:\jueves 05-18\InaApi2\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+E:\jueves 05-18\InaApi2\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+E:\jueves 05-18\InaApi2\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+E:\jueves 05-18\InaApi2\Data\obj\Debug\net6.0\Data.dll
+E:\jueves 05-18\InaApi2\Data\obj\Debug\net6.0\refint\Data.dll
+E:\jueves 05-18\InaApi2\Data\obj\Debug\net6.0\Data.pdb
+E:\jueves 05-18\InaApi2\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+E:\jueves 05-18\InaApi2\Data\obj\Debug\net6.0\ref\Data.dll

@@ -1,0 +1,503 @@
+D:\Users\pc\source\repos\InaApi2\InaApi2\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\pc\source\repos\InaApi2\InaApi2\bin\Debug\net6.0\appsettings.json
+D:\Users\pc\source\repos\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.exe
+D:\Users\pc\source\repos\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.deps.json
+D:\Users\pc\source\repos\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.runtimeconfig.json
+D:\Users\pc\source\repos\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.dll
+D:\Users\pc\source\repos\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.pdb
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.AssemblyReference.cache
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.AssemblyInfoInputs.cache
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.AssemblyInfo.cs
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.CoreCompileInputs.cache
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.InaApi2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.build.InaApi2.props
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InaApi2.props
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InaApi2.props
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\scopedcss\bundle\InaApi2.styles.css
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.dll
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\refint\InaApi2.dll
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.pdb
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.genruntimeconfig.cache
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\ref\InaApi2.dll
+D:\Users\pc\source\repos\InaApi2\InaApi2\bin\Debug\net6.0\Data.dll
+D:\Users\pc\source\repos\InaApi2\InaApi2\bin\Debug\net6.0\Entities.dll
+D:\Users\pc\source\repos\InaApi2\InaApi2\bin\Debug\net6.0\Services.dll
+D:\Users\pc\source\repos\InaApi2\InaApi2\bin\Debug\net6.0\Entities.pdb
+D:\Users\pc\source\repos\InaApi2\InaApi2\bin\Debug\net6.0\Services.pdb
+D:\Users\pc\source\repos\InaApi2\InaApi2\bin\Debug\net6.0\Data.pdb
+D:\Users\pc\source\repos\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.CopyComplete
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\appsettings.json
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.exe
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.deps.json
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.runtimeconfig.json
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Data.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Entities.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Services.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Entities.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Services.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Data.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.AssemblyReference.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.AssemblyInfoInputs.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.AssemblyInfo.cs
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.CoreCompileInputs.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.InaApi2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.build.InaApi2.props
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InaApi2.props
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InaApi2.props
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\scopedcss\bundle\InaApi2.styles.css
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.CopyComplete
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\refint\InaApi2.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.genruntimeconfig.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\obj\Debug\net6.0\ref\InaApi2.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\InaApi2\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\appsettings.json
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.exe
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.deps.json
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.runtimeconfig.json
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Data.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Entities.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Services.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Entities.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Services.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\bin\Debug\net6.0\Data.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.AssemblyReference.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.AssemblyInfoInputs.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.AssemblyInfo.cs
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.CoreCompileInputs.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.InaApi2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.build.InaApi2.props
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InaApi2.props
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InaApi2.props
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\scopedcss\bundle\InaApi2.styles.css
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.CopyComplete
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\refint\InaApi2.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.genruntimeconfig.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\InaApi2\obj\Debug\net6.0\ref\InaApi2.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\appsettings.Development.json
+E:\InaApi2\InaApi2\bin\Debug\net6.0\appsettings.json
+E:\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.exe
+E:\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.deps.json
+E:\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.runtimeconfig.json
+E:\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.pdb
+E:\InaApi2\InaApi2\bin\Debug\net6.0\AutoMapper.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Azure.Core.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Azure.Identity.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Humanizer.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\System.CodeDom.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\System.Memory.Data.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\System.Text.Json.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Data.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Entities.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Services.dll
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Entities.pdb
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Services.pdb
+E:\InaApi2\InaApi2\bin\Debug\net6.0\Data.pdb
+E:\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.AssemblyReference.cache
+E:\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.GeneratedMSBuildEditorConfig.editorconfig
+E:\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.AssemblyInfoInputs.cache
+E:\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.AssemblyInfo.cs
+E:\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.CoreCompileInputs.cache
+E:\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.MvcApplicationPartsAssemblyInfo.cache
+E:\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.InaApi2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.build.InaApi2.props
+E:\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InaApi2.props
+E:\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InaApi2.props
+E:\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.pack.json
+E:\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.build.json
+E:\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.development.json
+E:\InaApi2\InaApi2\obj\Debug\net6.0\scopedcss\bundle\InaApi2.styles.css
+E:\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.CopyComplete
+E:\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.dll
+E:\InaApi2\InaApi2\obj\Debug\net6.0\refint\InaApi2.dll
+E:\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.pdb
+E:\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.genruntimeconfig.cache
+E:\InaApi2\InaApi2\obj\Debug\net6.0\ref\InaApi2.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\appsettings.json
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.exe
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.deps.json
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.runtimeconfig.json
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.pdb
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Data.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Entities.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Services.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Entities.pdb
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Services.pdb
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\bin\Debug\net6.0\Data.pdb
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.AssemblyReference.cache
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.AssemblyInfoInputs.cache
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.AssemblyInfo.cs
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.CoreCompileInputs.cache
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.InaApi2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.build.InaApi2.props
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InaApi2.props
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InaApi2.props
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\scopedcss\bundle\InaApi2.styles.css
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.CopyComplete
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\refint\InaApi2.dll
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.pdb
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.genruntimeconfig.cache
+C:\Users\CRPP13\Desktop\InaApi2\InaApi2\obj\Debug\net6.0\ref\InaApi2.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\appsettings.Development.json
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\appsettings.json
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.exe
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.deps.json
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.runtimeconfig.json
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\InaApi2.pdb
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\AutoMapper.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Azure.Core.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Azure.Identity.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Humanizer.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\System.CodeDom.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\System.Memory.Data.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\System.Text.Json.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Data.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Entities.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Services.dll
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Entities.pdb
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Services.pdb
+E:\jueves 05-18\InaApi2\InaApi2\bin\Debug\net6.0\Data.pdb
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.AssemblyReference.cache
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.GeneratedMSBuildEditorConfig.editorconfig
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.AssemblyInfoInputs.cache
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.AssemblyInfo.cs
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.CoreCompileInputs.cache
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.MvcApplicationPartsAssemblyInfo.cache
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.InaApi2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.build.InaApi2.props
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InaApi2.props
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InaApi2.props
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.pack.json
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.build.json
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\staticwebassets.development.json
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\scopedcss\bundle\InaApi2.styles.css
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.csproj.CopyComplete
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.dll
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\refint\InaApi2.dll
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.pdb
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\InaApi2.genruntimeconfig.cache
+E:\jueves 05-18\InaApi2\InaApi2\obj\Debug\net6.0\ref\InaApi2.dll

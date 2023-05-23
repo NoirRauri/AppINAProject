@@ -1,0 +1,26 @@
+<div class="form">
+    <div class="titulo">
+        <p>{{ titulo }}</p>
+    </div>
+    <form [formGroup]="tipoClienteForm.baseForm">
+        <mat-form-field class="formField" appearance="fill">
+            <mat-label>ID</mat-label>
+            <input matInput type="number" formControlName="id" readonly />
+        </mat-form-field>
+
+        <mat-form-field class="formField" appearance="fill">
+            <mat-label>Nombre</mat-label>
+            <input matInput type="text" formControlName="nombre" />
+        </mat-form-field>
+
+        <div class="formButton">
+            <button mat-raised-button color="primary" type="submit" (click)="guardar()" [mat-dialog-close]
+                [disabled]="!this.tipoClienteForm.baseForm.valid">
+                Enviar
+            </button>
+            <button mat-raised-button color="primary" type="submit" [mat-dialog-close]>
+                Salir
+            </button>
+        </div>
+    </form>
+</div>

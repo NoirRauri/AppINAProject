@@ -1,0 +1,102 @@
+D:\Users\pc\source\repos\InaApi2\Services\bin\Debug\net6.0\Services.deps.json
+D:\Users\pc\source\repos\InaApi2\Services\bin\Debug\net6.0\Services.dll
+D:\Users\pc\source\repos\InaApi2\Services\bin\Debug\net6.0\Services.pdb
+D:\Users\pc\source\repos\InaApi2\Services\bin\Debug\net6.0\Data.dll
+D:\Users\pc\source\repos\InaApi2\Services\bin\Debug\net6.0\Entities.dll
+D:\Users\pc\source\repos\InaApi2\Services\bin\Debug\net6.0\Data.pdb
+D:\Users\pc\source\repos\InaApi2\Services\bin\Debug\net6.0\Entities.pdb
+D:\Users\pc\source\repos\InaApi2\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\Users\pc\source\repos\InaApi2\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pc\source\repos\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\Users\pc\source\repos\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\Users\pc\source\repos\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\Users\pc\source\repos\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\Users\pc\source\repos\InaApi2\Services\obj\Debug\net6.0\Services.dll
+D:\Users\pc\source\repos\InaApi2\Services\obj\Debug\net6.0\refint\Services.dll
+D:\Users\pc\source\repos\InaApi2\Services\obj\Debug\net6.0\Services.pdb
+D:\Users\pc\source\repos\InaApi2\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\bin\Debug\net6.0\Services.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\bin\Debug\net6.0\Data.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\bin\Debug\net6.0\Entities.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\bin\Debug\net6.0\Data.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\bin\Debug\net6.0\Entities.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\obj\Debug\net6.0\Services.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\CRPP15\Documents\InaApi\InaApi2\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\bin\Debug\net6.0\Services.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\bin\Debug\net6.0\Data.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\bin\Debug\net6.0\Entities.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\bin\Debug\net6.0\Data.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\bin\Debug\net6.0\Entities.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\obj\Debug\net6.0\Services.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\05 .NET\InaApi2\Services\obj\Debug\net6.0\ref\Services.dll
+E:\InaApi2\Services\bin\Debug\net6.0\Services.deps.json
+E:\InaApi2\Services\bin\Debug\net6.0\Services.dll
+E:\InaApi2\Services\bin\Debug\net6.0\Services.pdb
+E:\InaApi2\Services\bin\Debug\net6.0\Data.dll
+E:\InaApi2\Services\bin\Debug\net6.0\Entities.dll
+E:\InaApi2\Services\bin\Debug\net6.0\Data.pdb
+E:\InaApi2\Services\bin\Debug\net6.0\Entities.pdb
+E:\InaApi2\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\InaApi2\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+E:\InaApi2\Services\obj\Debug\net6.0\Services.dll
+E:\InaApi2\Services\obj\Debug\net6.0\refint\Services.dll
+E:\InaApi2\Services\obj\Debug\net6.0\Services.pdb
+E:\InaApi2\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\CRPP13\Desktop\InaApi2\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\CRPP13\Desktop\InaApi2\Services\bin\Debug\net6.0\Services.dll
+C:\Users\CRPP13\Desktop\InaApi2\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\CRPP13\Desktop\InaApi2\Services\bin\Debug\net6.0\Data.dll
+C:\Users\CRPP13\Desktop\InaApi2\Services\bin\Debug\net6.0\Entities.dll
+C:\Users\CRPP13\Desktop\InaApi2\Services\bin\Debug\net6.0\Data.pdb
+C:\Users\CRPP13\Desktop\InaApi2\Services\bin\Debug\net6.0\Entities.pdb
+C:\Users\CRPP13\Desktop\InaApi2\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\CRPP13\Desktop\InaApi2\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRPP13\Desktop\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\CRPP13\Desktop\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\CRPP13\Desktop\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\CRPP13\Desktop\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\CRPP13\Desktop\InaApi2\Services\obj\Debug\net6.0\Services.dll
+C:\Users\CRPP13\Desktop\InaApi2\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\CRPP13\Desktop\InaApi2\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\CRPP13\Desktop\InaApi2\Services\obj\Debug\net6.0\ref\Services.dll
+E:\jueves 05-18\InaApi2\Services\bin\Debug\net6.0\Services.deps.json
+E:\jueves 05-18\InaApi2\Services\bin\Debug\net6.0\Services.dll
+E:\jueves 05-18\InaApi2\Services\bin\Debug\net6.0\Services.pdb
+E:\jueves 05-18\InaApi2\Services\bin\Debug\net6.0\Data.dll
+E:\jueves 05-18\InaApi2\Services\bin\Debug\net6.0\Entities.dll
+E:\jueves 05-18\InaApi2\Services\bin\Debug\net6.0\Data.pdb
+E:\jueves 05-18\InaApi2\Services\bin\Debug\net6.0\Entities.pdb
+E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\Services.dll
+E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\refint\Services.dll
+E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\Services.pdb
+E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\ref\Services.dll

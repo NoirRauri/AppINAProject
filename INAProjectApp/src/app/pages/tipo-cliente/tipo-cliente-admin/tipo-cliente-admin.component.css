@@ -1,0 +1,12 @@
+.form{
+    padding: 30px;
+}
+
+.titulo{
+    text-align: center;
+    font-weight: bold;
+}
+
+.formField{
+    width: 50%;
+}

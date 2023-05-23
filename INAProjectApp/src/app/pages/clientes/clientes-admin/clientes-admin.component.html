@@ -1,0 +1,69 @@
+<div class="form">
+  <div class="titulo">
+    <p>{{ titulo }}</p>
+  </div>
+  <form [formGroup]="clienteForm.baseForm">
+    <mat-form-field class="formField" appearance="fill">
+      <mat-label>Cédula</mat-label>
+      <input matInput type="text" formControlName="cedula" />
+    </mat-form-field>
+
+    <mat-form-field class="formField" appearance="fill">
+      <mat-label>Nombre</mat-label>
+      <input matInput type="text" formControlName="nombre" />
+    </mat-form-field>
+
+    <mat-form-field class="formField" appearance="fill">
+      <mat-label>Primer Apellido</mat-label>
+      <input matInput type="text" formControlName="apellido1" />
+    </mat-form-field>
+
+    <mat-form-field class="formField" appearance="fill">
+      <mat-label>Segundo Apellido</mat-label>
+      <input matInput type="text" formControlName="apellido2" />
+    </mat-form-field>
+
+    <mat-form-field class="formField" appearance="fill">
+      <mat-label>Tipo de Cliente</mat-label>
+      <select matNativeControl formControlName="tipoCliente">
+        <option *ngFor="let opcion of tipoCliente" [ngValue]="opcion.id">
+          {{ opcion.nombre }}
+        </option>
+      </select>
+    </mat-form-field>
+
+    <mat-form-field class="formField" appearance="fill">
+      <mat-label>Descuento Máximo</mat-label>
+      <input matInput type="number" formControlName="descMax" />
+    </mat-form-field>
+
+    <mat-form-field class="formField" appearance="fill">
+      <mat-label>Foto</mat-label>
+      <input matInput type="text" formControlName="foto" />
+    </mat-form-field>
+
+    <mat-form-field class="formField" appearance="fill">
+      <mat-label>Fecha de Nacimiento</mat-label>
+      <input matInput type="date" formControlName="fechaNac" />
+    </mat-form-field>
+
+    <mat-form-field class="formField" appearance="fill">
+      <mat-label>Género</mat-label>
+      <select matNativeControl formControlName="genero">
+        <option [ngValue]="0" disabled>Selecciona una opción</option>
+        <option [ngValue]="1">Femenino</option>
+        <option [ngValue]="2">Masculino</option>
+        <option [ngValue]="3">Otro</option>
+      </select>
+    </mat-form-field>
+    <div class="formButton">
+      <button mat-raised-button color="primary" type="submit" (click)="guardar()" [mat-dialog-close]
+        [disabled]="!this.clienteForm.baseForm.valid">
+        Enviar
+      </button>
+      <button mat-raised-button color="primary" type="submit" [mat-dialog-close]>
+        Salir
+      </button>
+    </div>
+  </form>
+</div>

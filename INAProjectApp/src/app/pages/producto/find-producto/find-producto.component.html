@@ -1,0 +1,51 @@
+<div class="container">
+    <div class="titulo">
+        <mat-form-field class="formField" appearance="fill">
+            <mat-label>Buscar Producto</mat-label>
+            <input matInput type="text" [(ngModel)]="filterValue" (keyup)="aplicarFiltro()" />
+        </mat-form-field>
+        <button mat-button color="warn" [mat-dialog-close]="true">
+            Salir
+        </button>
+    </div>
+    <div>
+        <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+            <!-- cedula Column -->
+            <ng-container matColumnDef="IdProducto">
+                <th mat-header-cell *matHeaderCellDef mat-sort-header>ID Producto</th>
+                <td mat-cell *matCellDef="let element">{{ element.idProducto }}</td>
+            </ng-container>
+
+            <!-- nombre Column -->
+            <ng-container matColumnDef="Nombre">
+                <th mat-header-cell *matHeaderCellDef mat-sort-header>Nombre</th>
+                <td mat-cell *matCellDef="let element">{{ element.nombre }}</td>
+            </ng-container>
+
+            <!-- apellido1 Column -->
+            <ng-container matColumnDef="Stock">
+                <th mat-header-cell *matHeaderCellDef mat-sort-header>Stock</th>
+                <td mat-cell *matCellDef="let element">{{ element.stock }}</td>
+            </ng-container>
+
+            <!-- apellido2 Column -->
+            <ng-container matColumnDef="Precio">
+                <th mat-header-cell *matHeaderCellDef mat-sort-header>Precio</th>
+                <td mat-cell *matCellDef="let element">{{ element.precioVenta }}</td>
+            </ng-container>
+
+            <!-- acciones Column -->
+            <ng-container matColumnDef="acciones">
+                <th mat-header-cell *matHeaderCellDef mat-sort-header>Acciones</th>
+                <td mat-cell *matCellDef="let element">
+                    <button mat-button color="accent" [mat-dialog-close]="element">
+                        Agregar producto
+                    </button>
+                </td>
+            </ng-container>
+
+            <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+            <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+        </table>
+    </div>
+</div>
