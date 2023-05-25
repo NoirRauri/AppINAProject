@@ -22,7 +22,7 @@ import { FacturaService } from 'src/app/shared/service/factura.service';
 })
 export class FacturaFormComponent {
 
-  fecha = new Date();
+
   cliente: Cliente;
   producto: Producto;
   tipoPago: TipoPago[];
@@ -88,7 +88,7 @@ export class FacturaFormComponent {
       precio: this.producto.precioVenta,
       estado: [true]
     })
-    console.log(TbDetalleFacturas)
+    // console.log(TbDetalleFacturas)
 
     this.TbDetalleFacturas.push(TbDetalleFacturas);
     // console.log(this.TbDetalleFacturas.value)
@@ -105,16 +105,17 @@ export class FacturaFormComponent {
       dialogProd = this.dialog.open(FindClientesComponent, { maxHeight: "500px", maxWidth: '700px', disableClose: true })
       dialogProd.afterClosed().subscribe((result) => {
         this.cliente = result;
-        this.facturaForm.get('IdCliente')?.setValue(this.cliente.cedula)
-        this.nombreCliente = result.nombre + ' ' + result.apellido1 + ' ' + result.apellido2;
-        this.facturaForm.get('Fecha')?.setValue(this.fecha.toLocaleString())
+        this.facturaForm.get('IdCliente')?.setValue(this.cliente.cedula.trim())
+        this.nombreCliente = result.nombre.trim().toUpperCase() + ' ' + result.apellido1.trim().toUpperCase() + ' ' + result.apellido2.trim().toUpperCase();
+        let fecha = new Date();
+        this.facturaForm.get('Fecha')?.setValue(fecha.toLocaleString()) || '';
       });
     } else { // ingresa al dialog FindProducto
       dialogProd = this.dialog.open(FindProductoComponent, { maxHeight: "500px", maxWidth: '700px', disableClose: true })
       dialogProd.afterClosed().subscribe((result) => {
         this.producto = result;
         this.cantMax = result.stock;
-        this.nombreProducto = result.nombre;
+        this.nombreProducto = result.nombre.trim().toUpperCase();
         this.precioProducto = result.precioVenta;
       });
     }

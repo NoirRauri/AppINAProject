@@ -7,6 +7,9 @@ form{
     margin: 0 auto !important;
 }
 
+.formTable{
+    justify-content: center;
+}
 .titulo{
     height: 100px;
     display: flex;
