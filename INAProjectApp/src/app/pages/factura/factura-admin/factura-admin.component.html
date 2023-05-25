@@ -1,0 +1,75 @@
+<p>factura-admin works!</p>
+<!-- ejemplo 01 -->
+
+<!-- <form [formGroup]="myForm" (ngSubmit)="submit()">
+    <div formArrayName="items">
+        <div *ngFor="let item of items.controls; let i = index" [formGroupName]="i">
+            <input formControlName="name" placeholder="Item name">
+            <input formControlName="description" placeholder="Item description">
+        </div>
+    </div>
+    <button (click)="addItem()">Add Item</button>
+    <button type="submit">Submit</button>
+    <button mat-button color="warn" [mat-dialog-close]="true">
+        Salir
+    </button>
+</form> -->
+
+<form [formGroup]="form" class="w-50 container mt-3 card">
+    <button mat-button color="warn" [mat-dialog-close]="true">
+        Salir
+    </button>
+    <input type="text" class="form-control my-2" formControlName="nombre" placeholder="Nombre">
+
+
+    <ng-container formArrayName="arreglo">
+
+        <div class="row mb-2 col-12" *ngFor="let item of arreglo.controls; let i = index" [formGroupName]="i">
+
+            <div class="col">
+                <input type="text" class="form-control" formControlName="telefono" placeholder="telefono">
+            </div>
+
+            <div class="col">
+                <input type="text" class="form-control" formControlName="correo" placeholder="correo">
+            </div>
+
+            <div class="col">
+                <button class="btn btn-danger" (click)="borrarGrupo(i)">Borrar</button>
+            </div>
+
+        </div>
+
+    </ng-container>
+
+    <button class="btn btn-primary mt-3" (click)="agregarTelefonoCorreo()">Agregar nuevo telefono y correo</button>
+
+</form>
+
+<!-- <form [formGroup]="facturaForm">
+    <label for="idFactura">Id Factura:</label>
+    <input type="number" formControlName="idFactura">
+
+    <label for="Fecha">Fecha:</label>
+    <input type="date" formControlName="Fecha">
+
+    <label for="IdCliente">Id Cliente:</label>
+    <input type="text" formControlName="IdCliente">
+
+    <label for="TipoVenta">Tipo Venta:</label>
+    <input type="text" formControlName="TipoVenta">
+
+    <label for="TipoPago">Tipo Pago:</label>
+    <input type="text" formControlName="TipoPago">
+
+    <label for="estado">Estado:</label>
+    <select formControlName="estado">
+        <option [value]="true">Activo</option>
+        <option [value]="false">Inactivo</option>
+    </select>
+
+    <ng-container formArrayName="TbDetalleFacturas" *ngIf="facturaForm.get('arreglo')['controls'].length > 0">
+
+    </ng-container>
+
+</form> -->

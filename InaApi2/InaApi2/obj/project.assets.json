@@ -3741,11 +3741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\InaApi2\\InaApi2.csproj",
+      "projectUniqueName": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\InaApi2\\InaApi2.csproj",
       "projectName": "InaApi2",
-      "projectPath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\InaApi2\\InaApi2.csproj",
+      "projectPath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\InaApi2\\InaApi2.csproj",
       "packagesPath": "C:\\Users\\laury\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\InaApi2\\obj\\",
+      "outputPath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\InaApi2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laury\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3762,11 +3762,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\Entities\\Entities.csproj"
+            "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\Services\\Services.csproj"
+            "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\Services\\Services.csproj"
             }
           }
         }

@@ -1,0 +1,110 @@
+<!-- <p>factura-form works!</p> -->
+<div class="form">
+    <div class="titulo">
+        <h1>Creacion de Factura</h1>
+    </div>
+    <div class="subtitulo">
+        <p>Datos del Cliente</p>
+    </div>
+
+    <!-- Form para Clientes -->
+
+    <form [formGroup]="facturaForm">
+        <mat-form-field class="formField" appearance="fill">
+            <mat-label>Fecha</mat-label>
+            <input matInput type="text" formControlName="Fecha" readonly />
+        </mat-form-field>
+
+        <mat-form-field class="formField" appearance="fill">
+            <mat-label>Cédula</mat-label>
+            <input matInput type="text" formControlName="IdCliente" readonly />
+        </mat-form-field>
+
+        <mat-form-field class="formField" appearance="fill">
+            <mat-label>Nombre</mat-label>
+            <input matInput type="text" value={{nombreCliente}} readonly />
+        </mat-form-field>
+
+        <button mat-raised-button color="primary" (click)="openModal(true)">
+            Agregar Cliente
+        </button>
+    </form>
+
+    <!-- Form para Tipo Venta - Tipo Pago -->
+
+    <form [formGroup]="facturaForm">
+        <mat-form-field class="formField" appearance="fill">
+            <mat-label>Tipo de Venta</mat-label>
+            <select matNativeControl formControlName="TipoVenta">
+                <option *ngFor="let opcion of tipoVenta" [ngValue]="opcion.id">
+                    {{ opcion.nombre }}
+                </option>
+            </select>
+        </mat-form-field>
+
+        <mat-form-field class="formField" appearance="fill">
+            <mat-label>Tipo de Pago</mat-label>
+            <select matNativeControl formControlName="TipoPago">
+                <option *ngFor="let opcion of tipoVenta" [ngValue]="opcion.id">
+                    {{ opcion.nombre }}
+                </option>
+            </select>
+        </mat-form-field>
+    </form>
+    <div class="subtitulo">
+        <p>Datos del Cliente</p>
+    </div>
+
+    <!-- Form para Productos -->
+
+    <form [formGroup]="detalleFacturaForm.baseForm">
+
+        <mat-form-field class="formField" appearance="fill">
+            <mat-label>Nombre</mat-label>
+            <input matInput type="text" value={{nombreProducto}} readonly />
+        </mat-form-field>
+
+        <mat-form-field class="formField" appearance="fill">
+            <mat-label>Cantidad</mat-label>
+            <input matInput type="number" formControlName="cant" max={{cantMax}} min='1' />
+        </mat-form-field>
+
+        <mat-form-field class="formField" appearance="fill">
+            <mat-label>Precio Unitario</mat-label>
+            <input matInput type="number" value={{precioProducto}} readonly />
+        </mat-form-field>
+
+        <button mat-raised-button color="primary" (click)="openModal(false)">
+            Agregar Producto
+        </button>
+
+        <button mat-mini-fab (click)="addDetalleFactura()">
+            <mat-icon class="add-course-btn">add</mat-icon>
+        </button>
+    </form>
+</div>
+
+<form class="form" [formGroup]="facturaForm">
+
+    <ng-container formArrayName="TbDetalleFacturas">
+
+        <ng-container *ngFor="let item of TbDetalleFacturas.controls; let i = index" [formGroupName]="i">
+
+            <mat-form-field appearance="fill">
+                <input matInput type="text" formControlName="idProducto" placeholder="ID Producto" readonly>
+            </mat-form-field>
+
+            <mat-form-field appearance="fill">
+                <input matInput type="number" formControlName="cant" placeholder="Cantidad" readonly>
+            </mat-form-field>
+
+            <mat-form-field appearance="fill">
+                <input matInput type="number" formControlName="precio" placeholder="Precio" readonly>
+            </mat-form-field>
+
+            <mat-icon class="delete-btn" (click)="eliminarDetalle(i)"> delete_forever</mat-icon>
+
+        </ng-container>
+    </ng-container>
+
+</form>

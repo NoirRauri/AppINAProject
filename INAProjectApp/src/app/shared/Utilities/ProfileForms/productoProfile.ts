@@ -9,9 +9,8 @@ export class ProductosFroms {
         this.baseForm = this.fb.group({
             idProducto: ['', [Validators.required]],
             nombre: ['', [Validators.required]],
-            precioVenta: [[Validators.required]],
-            stock: [[Validators.required]],
-            estado: []
+            precioVenta: [1, [Validators.required]],
+            stock: [1, [Validators.required]]
         })
     }
 }

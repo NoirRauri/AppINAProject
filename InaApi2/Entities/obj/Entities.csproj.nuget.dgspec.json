@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\Entities\\Entities.csproj": {}
+    "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\Entities\\Entities.csproj": {
+    "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\laury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laury\\AppData\\Roaming\\NuGet\\NuGet.Config",

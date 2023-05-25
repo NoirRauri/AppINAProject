@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RZcjZyS+QS1k7pl0yct3hMgCZUdCYoMJDI1fHhB1pRgA/ZGAUTrMo9PkS8ORerzB9uFKWhyPXD/C6nElE1HLLQ==",
+  "dgSpecHash": "BvbGkmUS78I45zCv9Cbem8bcMZZBWjj0SIy7f+0yHO7Kesu+wEGf7nck9V5AI6S015pkRFQf4Itdks4HzWyZRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\InaApi2\\InaApi2.csproj",
+  "projectFilePath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\InaApi2\\InaApi2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laury\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\laury\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

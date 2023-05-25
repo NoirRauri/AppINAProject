@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aqYtQ1rbprPG5/9JlrzNOJ8o7MbmzSvkuuovJhbyCgIaUGQq4VK4dJUd9BBahSUTUj+JOmD9+tgOCqSbbXkyjg==",
+  "dgSpecHash": "iZZiU//+L8fOMhN4ti4Ig8/3VJrsf4kAajR03SSK0aSrSreD3Rv7gNxb4deV38EN4ZabFKYh2jTwIACtAHWw9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\05 .NET\\InaApi2\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\laury\\Downloads\\Portafolio de trabajo Michael Alvarez H\\AppINAProject\\InaApi2\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laury\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\laury\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -3,16 +3,17 @@ import { FormBuilder, FormGroup, Validators } from "@angular/forms";
 
 @Injectable({ providedIn: 'root' })
 
-export class FacturaForms {
+export class detalleFacturaForms {
+
     baseForm: FormGroup;
     constructor(private fb: FormBuilder) {
         this.baseForm = this.fb.group({
+            idDetalleFactura: [0],
             idFactura: [0],
-            Fecha: ['', [Validators.required]],
-            IdCliente: ['', [Validators.required]],
-            TipoVenta: ['', [Validators.required]],
-            TipoPago: ['', [Validators.required]],
-            TbDetalleFacturas: this.fb.array([])
+            idProducto: ['', [Validators.required]],
+            cant: [0, [Validators.required]],
+            precio: [0, [Validators.required]],
+            estado: [true, [Validators.required]]
         });
     }
 }

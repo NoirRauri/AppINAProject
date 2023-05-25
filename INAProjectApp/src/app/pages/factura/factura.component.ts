@@ -18,6 +18,7 @@ import { TipoPago } from 'src/app/shared/Models/TipoPago';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
 import { TipoVenta } from 'src/app/shared/Models/TipoVenta';
 import { TipoVentaService } from 'src/app/shared/service/tipoVenta.service';
+import { FacturaAdminComponent } from './factura-admin/factura-admin.component';
 
 @Component({
   selector: 'app-factura',
@@ -101,18 +102,18 @@ export class FacturaComponent {
     });
   }
 
-  openModal(metodo?: boolean) {
+  openModal(metodo: boolean) {
     let dialogProd;
     if (metodo) { // ingresa al dialog FindCliente
-      dialogProd = this.dialog.open(FindClientesComponent, { maxHeight: "500px", maxWidth: '700px', disableClose: true })
-      dialogProd.afterClosed().subscribe((result) => {
-        this.cliente = result;
+      dialogProd = this.dialog.open(FacturaAdminComponent, { maxHeight: "500px", maxWidth: '700px', disableClose: true })
+      dialogProd.afterClosed().subscribe((cliente) => {
+        this.cliente = cliente;
         this.cargarCliente()
       });
     } else { // ingresa al dialog FindProducto
       dialogProd = this.dialog.open(FindProductoComponent, { maxHeight: "500px", maxWidth: '700px', disableClose: true })
-      dialogProd.afterClosed().subscribe((result) => {
-        this.producto = result;
+      dialogProd.afterClosed().subscribe((producto) => {
+        this.producto = producto;
         this.cargarProducto()
       });
     }
@@ -122,6 +123,7 @@ export class FacturaComponent {
     const detalleExistente = this.detalleList.find(detalle => detalle.idProducto === this.producto.idProducto);
     if (detalleExistente) {
       detalleExistente.cant += this.productoForm.baseForm.get('stock')?.value || 0;
+      console.log(detalleExistente)
     } else {
       this.detalleFactura = {
         idDetalleFactura: 0,

@@ -100,3 +100,20 @@ E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\Services.dll
 E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\refint\Services.dll
 E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\Services.pdb
 E:\jueves 05-18\InaApi2\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\bin\Debug\net6.0\Services.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\bin\Debug\net6.0\Data.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\bin\Debug\net6.0\Entities.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\bin\Debug\net6.0\Data.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\bin\Debug\net6.0\Entities.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\obj\Debug\net6.0\Services.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\laury\Downloads\Portafolio de trabajo Michael Alvarez H\AppINAProject\InaApi2\Services\obj\Debug\net6.0\ref\Services.dll

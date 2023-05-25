@@ -4,18 +4,21 @@ import { CommonModule } from '@angular/common';
 import { FacturaRoutingModule } from './factura-routing.module';
 import { FacturaComponent } from './factura.component';
 import { MaterialModule } from 'src/app/material.module';
-import { ReactiveFormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { FacturaAdminComponent } from './factura-admin/factura-admin.component';
 
 
 @NgModule({
   declarations: [
-    FacturaComponent
+    FacturaComponent,
+    FacturaAdminComponent
   ],
   imports: [
     CommonModule,
     FacturaRoutingModule,
     MaterialModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    FormsModule
   ]
 })
 export class FacturaModule { }

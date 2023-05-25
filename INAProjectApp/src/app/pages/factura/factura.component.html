@@ -75,7 +75,7 @@
         <input matInput type="number" formControlName="precioVenta" readonly />
       </mat-form-field>
 
-      <button mat-raised-button color="accent" (click)="openModal()" [disabled]="this.productoForm.baseForm.valid">
+      <button mat-raised-button color="accent" (click)="openModal(false)" [disabled]="this.productoForm.baseForm.valid">
         Buscar Producto
       </button>
     </form>
