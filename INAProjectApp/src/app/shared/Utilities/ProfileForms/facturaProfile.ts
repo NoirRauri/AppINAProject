@@ -12,6 +12,7 @@ export class FacturaForms {
             IdCliente: ['', [Validators.required]],
             TipoVenta: ['', [Validators.required]],
             TipoPago: ['', [Validators.required]],
+            estado: [true],
             TbDetalleFacturas: this.fb.array([])
         });
     }

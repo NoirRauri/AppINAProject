@@ -16,12 +16,14 @@ export class FacturaService {
     }
 
     guardar(factura: Factura): Observable<Factura> {
+        console.log('factura', factura)
         return this.http.post<Factura>(`${environments.API_URL}/factura`, factura).pipe(catchError(this.handlerError));
     }
 
     handlerError(error: any): Observable<never> {
         // console.log(error)
         let errorMensaje = 'Error Desconocido'
-        return throwError(errorMensaje)
+        console.log(error)
+        return throwError(error)
     }
 }

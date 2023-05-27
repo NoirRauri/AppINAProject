@@ -105,7 +105,7 @@ export class FacturaComponent {
   openModal(metodo: boolean) {
     let dialogProd;
     if (metodo) { // ingresa al dialog FindCliente
-      dialogProd = this.dialog.open(FacturaAdminComponent, { maxHeight: "500px", maxWidth: '700px', disableClose: true })
+      dialogProd = this.dialog.open(FindClientesComponent, { maxHeight: "500px", maxWidth: '700px', disableClose: true })
       dialogProd.afterClosed().subscribe((cliente) => {
         this.cliente = cliente;
         this.cargarCliente()

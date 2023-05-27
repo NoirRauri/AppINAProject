@@ -14,6 +14,7 @@ import { TipoVenta } from 'src/app/shared/Models/TipoVenta';
 import { TipoPagoService } from 'src/app/shared/service/tipoPago.service';
 import { TipoVentaService } from 'src/app/shared/service/tipoVenta.service';
 import { FacturaService } from 'src/app/shared/service/factura.service';
+import { ModProductoComponent } from '../producto/mod-producto/mod-producto.component';
 
 @Component({
   selector: 'app-factura-form',
@@ -31,19 +32,19 @@ export class FacturaFormComponent {
   nombreCliente = 'Nombre Cliente';
   nombreProducto = 'Nombre Producto';
   precioProducto = 0;
-  facturaForm: FormGroup;
+  // facturaForm: FormGroup;
 
 
   constructor(
     private tipoPagoServ: TipoPagoService,
     private tipoVentaServ: TipoVentaService,
-    // private facturaServ: FacturaService,
+    private facturaServ: FacturaService,
     private fb: FormBuilder,
-    // public facturaForm: FacturaForms,
+    public facturaForm: FacturaForms,
     public detalleFacturaForm: detalleFacturaForms,
     public productoForm: ProductosFroms,
     private dialog: MatDialog,
-    // private msg: ToastrService
+    private msg: ToastrService
   ) { }
 
   cargarCombos() {
@@ -59,43 +60,64 @@ export class FacturaFormComponent {
     });
   }
 
+  cargarDetalleForm() {
+    this.detalleFacturaForm.baseForm.patchValue({
+      idDetalleFactura: 0,
+      idFactura: 0,
+      idProducto: '',
+      cant: 1,
+      precio: 0,
+      estado: true
+    })
+  }
+
   ngOnInit(): void {
     this.cargarCombos();
     this.cargarfactura();
+    this.cargarDetalleForm();
   }
 
   cargarfactura() {
-    this.facturaForm = this.fb.group({
-      idFactura: [0],
-      Fecha: [''],
-      IdCliente: [''],
-      TipoVenta: [''],
-      TipoPago: [''],
-      TbDetalleFacturas: this.fb.array([])
+    this.facturaForm.baseForm.patchValue({
+      Fecha: '',
+      IdCliente: '',
+      TipoVenta: '',
+      TipoPago: '',
+      TbDetalleFacturas: []
     })
   }
+
   get TbDetalleFacturas() {
-    return this.facturaForm.get('TbDetalleFacturas') as FormArray;
+    return this.facturaForm.baseForm.get('TbDetalleFacturas') as FormArray;
   }
 
   addDetalleFactura() {
-    console.log(this.producto.idProducto)
-    const TbDetalleFacturas = this.fb.group({
-      idDetalleFactura: [0],
-      idFactura: [0],
-      idProducto: this.producto.idProducto || 0,
-      cant: this.detalleFacturaForm.baseForm.get('cant') || 1,
-      precio: this.producto.precioVenta,
-      estado: [true]
-    })
-    // console.log(TbDetalleFacturas)
-
-    this.TbDetalleFacturas.push(TbDetalleFacturas);
-    // console.log(this.TbDetalleFacturas.value)
+    const idProducto = this.producto.idProducto;
+    const detalleExistente = this.TbDetalleFacturas.controls.find(control => control.get('idProducto')?.value === idProducto);
+    console.log('existe', detalleExistente?.value)
+    console.log(this.detalleFacturaForm.baseForm.get('cant')?.value)
+    if (detalleExistente) {
+      // Si el detalle de factura ya existe, aumenta su cantidad en lugar de agregar un nuevo detalle.
+      const cantidad = detalleExistente.get('cant')?.value + this.detalleFacturaForm.baseForm.get('cant')?.value;
+      detalleExistente.patchValue({
+        cant: cantidad
+      });
+    } else {
+      console.log(this.producto.idProducto)
+      const TbDetalleFacturas = this.fb.group({
+        idDetalleFactura: 0,
+        idFactura: 0,
+        idProducto: this.producto.idProducto || 0,
+        cant: this.detalleFacturaForm.baseForm.get('cant') || 1,
+        precio: this.producto.precioVenta,
+        estado: [true]
+      })
+      this.TbDetalleFacturas.push(TbDetalleFacturas);
+    }
   }
 
   eliminarDetalle(i: number) {
-    const TbDetalleFacturas = this.facturaForm.get('TbDetalleFacturas') as FormArray;
+    const TbDetalleFacturas = this.facturaForm.baseForm.get('TbDetalleFacturas') as FormArray;
     TbDetalleFacturas.removeAt(i);
   }
 
@@ -105,10 +127,10 @@ export class FacturaFormComponent {
       dialogProd = this.dialog.open(FindClientesComponent, { maxHeight: "500px", maxWidth: '700px', disableClose: true })
       dialogProd.afterClosed().subscribe((result) => {
         this.cliente = result;
-        this.facturaForm.get('IdCliente')?.setValue(this.cliente.cedula.trim())
+        this.facturaForm.baseForm.get('IdCliente')?.setValue(this.cliente.cedula.trim())
         this.nombreCliente = result.nombre.trim().toUpperCase() + ' ' + result.apellido1.trim().toUpperCase() + ' ' + result.apellido2.trim().toUpperCase();
         let fecha = new Date();
-        this.facturaForm.get('Fecha')?.setValue(fecha.toLocaleString()) || '';
+        this.facturaForm.baseForm.get('Fecha')?.setValue(fecha.toLocaleString()) || '';
       });
     } else { // ingresa al dialog FindProducto
       dialogProd = this.dialog.open(FindProductoComponent, { maxHeight: "500px", maxWidth: '700px', disableClose: true })
@@ -121,7 +143,27 @@ export class FacturaFormComponent {
     }
   }
 
-  cargarCliente() {
+  editarCantidad(index: number, cantidad: number) {
+    console.log(index, cantidad)
+    const detalleFactura = this.TbDetalleFacturas.at(index);
+    detalleFactura.patchValue({ cant: cantidad });
+    console.log(this.facturaForm.baseForm.value)
+    this.cargarfactura();
+  }
+
+
+  guardarFactura() {
+    let fecha = new Date();
+    this.facturaForm.baseForm.patchValue({
+      Fecha: fecha.toISOString()
+    })
+    console.log(this.facturaForm.baseForm.value)
+    // this.facturaServ.guardar(this.facturaForm.baseForm.value).subscribe(() => {
+    //   console.log("guardo")
+    //   this.msg.success('Succefull!', 'El cliente se guardo correctamente!');
+    // }, (err) => {
+    //   this.msg.error(err);
+    // });
   }
 
 }
