@@ -1,3 +1,9 @@
 .agregar{
     margin: 0px 50px;
 }
+
+.hearder{
+    position: fixed;
+    max-width: 100%;
+    z-index: 1;
+}
