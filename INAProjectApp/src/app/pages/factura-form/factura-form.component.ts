@@ -121,6 +121,24 @@ export class FacturaFormComponent {
     TbDetalleFacturas.removeAt(i);
   }
 
+  editarCantidad(index: number, nuevaCantidad: number) {
+    const detalleFactura = this.facturaForm.baseForm.get('TbDetalleFacturas.' + index) as FormGroup;
+    detalleFactura.patchValue({ cant: nuevaCantidad });
+    console.log('TbDetalleFactura', this.facturaForm.baseForm.get('TbDetalleFacturas')?.value)
+  }
+
+  // editarCantidad(index: number, cantidad: number) {
+  //   const TbDetalleFacturas = this.facturaForm.baseForm.get('TbDetalleFacturas') as FormArray;
+  //   const detalleFactura = this.TbDetalleFacturas.at(index);
+  //   console.log('TbDetalleFactura', TbDetalleFacturas.value)
+  //   console.log('detalleFactura', detalleFactura.value)
+  //   console.log(index, cantidad)
+  //   // const detalleFactura = this.TbDetalleFacturas.at(index);
+  //   detalleFactura.patchValue({ cant: cantidad });
+  //   console.log(this.facturaForm.baseForm.value)
+  //   this.cargarfactura();
+  // }
+
   openModal(metodo?: boolean) {
     let dialogProd;
     if (metodo) { // ingresa al dialog FindCliente
@@ -143,21 +161,12 @@ export class FacturaFormComponent {
     }
   }
 
-  editarCantidad(index: number, cantidad: number) {
-    console.log(index, cantidad)
-    const detalleFactura = this.TbDetalleFacturas.at(index);
-    detalleFactura.patchValue({ cant: cantidad });
-    console.log(this.facturaForm.baseForm.value)
-    this.cargarfactura();
-  }
-
-
   guardarFactura() {
     let fecha = new Date();
     this.facturaForm.baseForm.patchValue({
       Fecha: fecha.toISOString()
     })
-    console.log(this.facturaForm.baseForm.value)
+    console.log('Guardar Factura', this.facturaForm.baseForm.value)
     // this.facturaServ.guardar(this.facturaForm.baseForm.value).subscribe(() => {
     //   console.log("guardo")
     //   this.msg.success('Succefull!', 'El cliente se guardo correctamente!');
