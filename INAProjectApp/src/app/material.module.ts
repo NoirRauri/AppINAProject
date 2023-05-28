@@ -37,9 +37,6 @@ const myListMaterialModule = [
     MatInputModule
 ];
 
-
-
-
 @NgModule({
 
     imports: [...myListMaterialModule],

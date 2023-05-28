@@ -11,7 +11,7 @@ export class detalleFacturaForms {
             idDetalleFactura: [0],
             idFactura: [0],
             idProducto: ['', [Validators.required]],
-            cant: [0, [Validators.required]],
+            stock: [0, [Validators.required]],
             precio: [0, [Validators.required]],
             estado: [true, [Validators.required]]
         });

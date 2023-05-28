@@ -32,7 +32,6 @@ export class FacturaFormComponent {
   nombreCliente = 'Nombre Cliente';
   nombreProducto = 'Nombre Producto';
   precioProducto = 0;
-  // facturaForm: FormGroup;
 
 
   constructor(
@@ -65,7 +64,7 @@ export class FacturaFormComponent {
       idDetalleFactura: 0,
       idFactura: 0,
       idProducto: '',
-      cant: 1,
+      stock: 1,
       precio: 0,
       estado: true
     })
@@ -95,10 +94,11 @@ export class FacturaFormComponent {
     const idProducto = this.producto.idProducto;
     const detalleExistente = this.TbDetalleFacturas.controls.find(control => control.get('idProducto')?.value === idProducto);
     console.log('existe', detalleExistente?.value)
-    console.log(this.detalleFacturaForm.baseForm.get('cant')?.value)
+    console.log(this.detalleFacturaForm.baseForm.get('stock')?.value)
     if (detalleExistente) {
       // Si el detalle de factura ya existe, aumenta su cantidad en lugar de agregar un nuevo detalle.
-      const cantidad = detalleExistente.get('cant')?.value + this.detalleFacturaForm.baseForm.get('cant')?.value;
+      console.log(detalleExistente.get('cant')?.value, this.detalleFacturaForm.baseForm.get('stock')?.value)
+      const cantidad = detalleExistente.get('cant')?.value + this.detalleFacturaForm.baseForm.get('stock')?.value;
       detalleExistente.patchValue({
         cant: cantidad
       });
@@ -108,7 +108,7 @@ export class FacturaFormComponent {
         idDetalleFactura: 0,
         idFactura: 0,
         idProducto: this.producto.idProducto || 0,
-        cant: this.detalleFacturaForm.baseForm.get('cant') || 1,
+        cant: this.detalleFacturaForm.baseForm.get('stock') || 1,
         precio: this.producto.precioVenta,
         estado: [true]
       })
@@ -124,20 +124,15 @@ export class FacturaFormComponent {
   editarCantidad(index: number, nuevaCantidad: number) {
     const detalleFactura = this.facturaForm.baseForm.get('TbDetalleFacturas.' + index) as FormGroup;
     detalleFactura.patchValue({ cant: nuevaCantidad });
-    console.log('TbDetalleFactura', this.facturaForm.baseForm.get('TbDetalleFacturas')?.value)
+    console.log('Factura', this.facturaForm.baseForm.value)
   }
 
-  // editarCantidad(index: number, cantidad: number) {
-  //   const TbDetalleFacturas = this.facturaForm.baseForm.get('TbDetalleFacturas') as FormArray;
-  //   const detalleFactura = this.TbDetalleFacturas.at(index);
-  //   console.log('TbDetalleFactura', TbDetalleFacturas.value)
-  //   console.log('detalleFactura', detalleFactura.value)
-  //   console.log(index, cantidad)
-  //   // const detalleFactura = this.TbDetalleFacturas.at(index);
-  //   detalleFactura.patchValue({ cant: cantidad });
-  //   console.log(this.facturaForm.baseForm.value)
-  //   this.cargarfactura();
-  // }
+  editarCantidad2(index: number, cantidad: number) {
+    const TbDetalleFacturas = this.facturaForm.baseForm.get('TbDetalleFacturas') as FormArray;
+    const detalleFactura = TbDetalleFacturas.at(index);
+    detalleFactura.patchValue({ cant: cantidad });
+    // this.cargarfactura();
+  }
 
   openModal(metodo?: boolean) {
     let dialogProd;
