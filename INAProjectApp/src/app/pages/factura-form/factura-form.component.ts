@@ -15,6 +15,7 @@ import { TipoPagoService } from 'src/app/shared/service/tipoPago.service';
 import { TipoVentaService } from 'src/app/shared/service/tipoVenta.service';
 import { FacturaService } from 'src/app/shared/service/factura.service';
 import { ModProductoComponent } from '../producto/mod-producto/mod-producto.component';
+import { DetalleFactura } from 'src/app/shared/Models/detalleFactura';
 
 @Component({
   selector: 'app-factura-form',
@@ -26,6 +27,7 @@ export class FacturaFormComponent {
 
   cliente: Cliente;
   producto: Producto;
+  detallefactura: DetalleFactura
   tipoPago: TipoPago[];
   tipoVenta: TipoVenta[];
   cantMax: number;
@@ -121,18 +123,19 @@ export class FacturaFormComponent {
     TbDetalleFacturas.removeAt(i);
   }
 
-  editarCantidad(index: number, nuevaCantidad: number) {
+  editarCantidad(index: number, detalle: any) {
     const detalleFactura = this.facturaForm.baseForm.get('TbDetalleFacturas.' + index) as FormGroup;
-    detalleFactura.patchValue({ cant: nuevaCantidad });
+    detalleFactura.patchValue(detalle.value);
     console.log('Factura', this.facturaForm.baseForm.value)
   }
 
-  editarCantidad2(index: number, cantidad: number) {
-    const TbDetalleFacturas = this.facturaForm.baseForm.get('TbDetalleFacturas') as FormArray;
-    const detalleFactura = TbDetalleFacturas.at(index);
-    detalleFactura.patchValue({ cant: cantidad });
-    // this.cargarfactura();
-  }
+  // editarCantidad2(index: number, detalle: any) {
+  //   // console.log(index, detalle.value)
+  //   const detalleFormArray = this.facturaForm.baseForm.get('TbDetalleFacturas') as FormArray;
+  //   const detalleFormGroup = detalleFormArray.controls[index] as FormGroup;
+  //   detalleFormGroup.patchValue(detalle.value, this.facturaForm.baseForm.value);
+  //   // this.cargarfactura();
+  // }
 
   openModal(metodo?: boolean) {
     let dialogProd;
